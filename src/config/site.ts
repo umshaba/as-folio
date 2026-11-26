@@ -410,7 +410,7 @@ export const site = {
     },
     teaching: {
       /** Description shown below the "teaching" heading on the teaching page. */
-      description: 'I don\'t teach (yet? :o ).',
+      description: "I·don't·teach·(yet?·:o·).",
     },
   },
 
