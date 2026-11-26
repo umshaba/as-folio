@@ -12,21 +12,6 @@
 #   scholar      - Google Scholar user ID
 #   orcid        - ORCID iD
 
-Einstein:
-  url: https://en.wikipedia.org/wiki/Albert_Einstein
-  scholar: qc6CJjYAAAAJ
-
-Podolsky:
-  url: https://en.wikipedia.org/wiki/Boris_Podolsky
-
-Rosen:
-  url: https://en.wikipedia.org/wiki/Nathan_Rosen
-
-Bose:
-  url: https://en.wikipedia.org/wiki/Satyendra_Nath_Bose
-
-Planck:
-  url: https://en.wikipedia.org/wiki/Max_Planck
-
-Bohr:
-  url: https://en.wikipedia.org/wiki/Niels_Bohr
+#Einstein:
+  #url: https://en.wikipedia.org/wiki/Albert_Einstein
+  #scholar: qc6CJjYAAAAJ
