@@ -3,7 +3,7 @@ title: 'Plato: The Man and His Work'
 author: A.E. Taylor
 isbn: '9780486416052'
 status: reading
-started: 2026-11-1
+started: 2026-11-01
 released: 2001
 categories: philosophy
 importance: 2
