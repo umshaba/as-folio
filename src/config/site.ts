@@ -375,9 +375,9 @@ export const site = {
 
   repositories: {
     /** Show GitHub user stats cards. */
-    githubUsers: true,
+    githubUsers: false,
     /** Show GitHub repository pin cards. */
-    githubRepos: true,
+    githubRepos: false,
     /** Show GitHub trophy stats (repo_trophies). Disabled by default — the service has known reliability issues. */
     trophies: false,
     /** Theme for light mode (from github-readme-stats themes). */
