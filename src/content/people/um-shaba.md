@@ -3,7 +3,7 @@ name: Uchizi M. Shaba
 role: Student
 photo: /assets/img/prof_pic.jpg
 description: Open-source software developer and writer.
-website: https://umshaba.github.io/as-folio
+website: https://umshaba.github.io/
 #github: githubusername
 importance: 1
 group: current
