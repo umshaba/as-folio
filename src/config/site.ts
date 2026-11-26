@@ -65,8 +65,7 @@ export const site = {
      * Address block below profile photo.
      * HTML is supported.
      */
-    moreInfo: `<p>Wilfrid Laurier University</p>
-      <p>Uchizi Mponela Shaba</p>`,
+    moreInfo: `<p>Uchizi Mponela Shaba</p>`,
   },
 
   // ─── Social links ──────────────────────────────────────────────────────────
