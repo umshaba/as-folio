@@ -32,7 +32,7 @@ export const site = {
   // ─── Identity ──────────────────────────────────────────────────────────────
 
   /** Site title. Shown in the browser tab and navbar. */
-  title: 'Albert Einstein',
+  title: 'Uchizi M. Shaba',
 
   /** Site description. Used in meta tags. */
   description: 'A simple, clean, and responsive Astro template for academics. Powered by as-folio.',
@@ -44,10 +44,10 @@ export const site = {
 
   author: {
     /** Full name shown in navbar, about page heading, and footer. */
-    name: 'Albert Einstein',
+    name: 'Uchizi M. Shaba',
 
     /** Short email address (used in social links). */
-    email: 'einstein@example.com',
+    email: 'uchizishaba@proton.me',
 
     /** Path to profile photo. Place image in public/assets/img/. */
     avatar: '/assets/img/prof_pic.jpg',
@@ -56,18 +56,17 @@ export const site = {
      * Subtitle below your name on the about page.
      * HTML is supported.
      */
-    subtitle: `Theoretical Physicist
+    subtitle: `Honours Computer Science student
       &nbsp;·&nbsp;
-      <a href="https://en.wikipedia.org/wiki/Institute_for_Advanced_Study">Institute for Advanced Study</a>,
-      Princeton`,
+      <a href="https://en.wikipedia.org/wiki/Wilfrid_Laurier_University">Department of Computer Science and Physics</a>,
+      Wilfrid Laurier University`,
 
     /**
      * Address block below profile photo.
      * HTML is supported.
      */
-    moreInfo: `<p>Institute for Advanced Study</p>
-      <p>Einstein Drive</p>
-      <p>Princeton, NJ 08540</p>`,
+    moreInfo: `<p>Wilfrid Laurier University</p>
+      <p>Uchizi Mponela Shaba</p>`,
   },
 
   // ─── Social links ──────────────────────────────────────────────────────────
@@ -79,7 +78,7 @@ export const site = {
   //   bluesky_handle, medium_username, cv_pdf, rss_icon
 
   socials: {
-    email: 'einstein@example.com',
+    email: 'uchizishaba@proton.me',
     x_username: undefined as string | undefined,
     linkedin_username: undefined as string | undefined,
     github_username: undefined as string | undefined,
@@ -412,7 +411,7 @@ export const site = {
     },
     teaching: {
       /** Description shown below the "teaching" heading on the teaching page. */
-      description: 'Course materials, schedules, and resources for classes taught.',
+      description: 'Null.',
     },
   },
 
